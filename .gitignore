@@ -1,0 +1,6 @@
+#ignore a file
+data.csv 
+#ignore a folder
+/config
+#ignore by extension
+*.csv
